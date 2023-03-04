@@ -1,14 +1,16 @@
 ### 👋 Olá! Sou Renê Farias, gosto de desafios; resolver problemas é o que me move! 
 
-- 🔭 Trabalho atualmente com front-end (freelancer)
-- 🌱 Estudando React e Typescript
-- 😄 Veja meus projetos!
 
 <div>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=ReneFarias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReneFarias&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
+
+- 🔭 Trabalho atualmente com front-end (freelancer)
+- 🌱 Estudando React e Typescript
+- 😄 Veja meus projetos!
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rane-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
