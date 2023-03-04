@@ -1,7 +1,4 @@
-<img align="right" alt="Rane-pic" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1HbvesP9U5Ea62JnVb7zegdOBEWsnnE6Zjw&usqp=CAU">
-
 ### 👋 Olá! Sou Renê Farias, gosto de desafios; resolver problemas é o que me move! 
-
 
 <div>
   <img heigth="150em" src="https://github-readme-stats.vercel.app/api?username=ReneFarias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -13,7 +10,6 @@
 - 🌱 Estudando React e Typescript
 - 😄 Veja meus projetos!
 
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rane-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rane-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -22,7 +18,7 @@
   <img align="center" alt="Rane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rane-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!-- <img align="center" alt="Rane-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-  
+<!-- <img align="right" alt="Rane-pic" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1HbvesP9U5Ea62JnVb7zegdOBEWsnnE6Zjw&usqp=CAU"> -->
 </div>
   
   ##
