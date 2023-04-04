@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6887a9&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=041832&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=1500&pause=500&color=6887a9&width=435&lines=Oi+Bem-vindos!;Meu+nome+é+Renê+Farias.;Eu+tenho+24+anos.;Sou+Brasileiro.;Estudo+Analise+e+Desenvolvimento+de+Sistemas.)](https://git.io/typing-svg)
 
