@@ -1,3 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF87&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=1500&pause=500&color=00FF87&width=435&lines=Oi+Bem-vindos!;Meu+nome+é+Renê+Farias.;Eu+tenho+24+anos.;Sou+Brasileiro.;Estudo+Analise+e+Desenvolvimento+de+Sistemas.)](https://git.io/typing-svg)
+
 ### 👋 Oi! Sou Renê Farias, gosto de desafios; resolver problemas é o que me move! 
 
 <div>
