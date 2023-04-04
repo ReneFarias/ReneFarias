@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6887a9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&duration=2500&pause=500&center=true&color=041832&width=435&lines=Oi+Bem-vindos!;Meu+nome+é+Renê+Farias;Eu+tenho+24+anos;Sou+Brasileiro;Estudo+ADS;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&duration=2500&pause=500&center=true&vCenter=true&color=041832&width=435&lines=Oi+Bem-vindos!;Meu+nome+é+Renê+Farias;Eu+tenho+24+anos;Sou+Brasileiro;Estudo+ADS;)](https://git.io/typing-svg)
 
 ### 👋 Oi! Sou Renê Farias, gosto de desafios; resolver problemas é o que me move! 
 
