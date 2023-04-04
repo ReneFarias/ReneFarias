@@ -32,6 +32,13 @@
   <a href="https://www.linkedin.com/in/renefarias?jobid=1234&lipi=urn%3Ali%3Apage%3Ad_jobs_easyapply_pdfgenresume%3BA%2FBXKOXzSE%2BRCaDxENxVfQ%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_jobs_easyapply_pdfgenresume-v02_profile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+## :trophy: Jubayer Riyad Github Stats:
+
+![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ReneFarias&theme=github_dark) 
+
+
+
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
 
 <p align="center">
