@@ -33,7 +33,7 @@
   
 </div>
 
-## :trophy: ReneFarias Github Stats:
+## :trophy: Rene Farias Github Stats:
 
 ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ReneFarias&theme=github_dark) 
 
