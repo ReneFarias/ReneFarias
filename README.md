@@ -32,3 +32,16 @@
   <a href="https://www.linkedin.com/in/renefarias?jobid=1234&lipi=urn%3Ali%3Apage%3Ad_jobs_easyapply_pdfgenresume%3BA%2FBXKOXzSE%2BRCaDxENxVfQ%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_jobs_easyapply_pdfgenresume-v02_profile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
+
+<p align="center">
+    
+<a href="https://github.com/ReneFarias/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ReneFarias">
+</a>
+    <a href="https://github.com/ReneFarias?tab=followers">
+        <img src="https://img.shields.io/github/followers/ReneFarias?label=Followers&style=social" alt="GitHub Badge">
+    </a>
+</p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: ReneFarias Visitor's Count" /></p> 
