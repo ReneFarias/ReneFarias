@@ -61,3 +61,5 @@
   <img align="center"src="https://profile-counter.glitch.me/ReneFarias/count.svg"/>
 </p>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF87&height=120&section=footer"/>
