@@ -52,3 +52,5 @@
 </p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: ReneFarias Visitor's Count" /></p> 
+
+[github]: https://www.github.com/ReneFarias/
