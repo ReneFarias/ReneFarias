@@ -33,7 +33,7 @@
   
 </div>
 
-## :trophy: Jubayer Riyad Github Stats:
+## :trophy: ReneFarias Github Stats:
 
 ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ReneFarias&theme=github_dark) 
 
