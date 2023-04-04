@@ -51,7 +51,7 @@
     </a>
 </p>
 
-<div align="left">
+<div align="center">
 <p align="rigth">
   Visitantes: 
   <img align="center"src="https://profile-counter.glitch.me/ReneFarias/count.svg"/>
