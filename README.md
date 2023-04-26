@@ -12,7 +12,7 @@
 
 - 🔭 Trabalho atualmente com front-end (freelancer)
 - 🌱 Estudando React e Typescript
-- 😄 Veja meus projetos!
+- 😄 Veja meus projetos!!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rane-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
