@@ -13,6 +13,8 @@
 - 🔭 Trabalho atualmente com front-end (freelancer)
 - 🌱 Estudando React e Typescript (front end)
 - 🌱 Estudando JAVA Oracle (back end)
+- 🌱 Estudando PYTHON (back end)
+- 🌱 Estudando MySQL
 - 😄 Veja meus projetos!!
 
 <div style="display: inline_block"><br>
@@ -25,6 +27,7 @@
   <img align="center" alt="Rane-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="Rane-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Rane-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Rane-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <!-- <img align="center" alt="Rane-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
 <!-- <img align="right" alt="Rane-pic" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1HbvesP9U5Ea62JnVb7zegdOBEWsnnE6Zjw&usqp=CAU"> -->
 </div>
