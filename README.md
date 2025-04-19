@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6887a9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&center=true&vCenter=true&duration=2500&pause=500&color=041832&width=1000&lines=Oi+Bem-vindos!;Meu+nome+é+Renê+Farias;Eu+tenho+24+anos;Sou+Brasileiro;Estudo+ADS;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&center=true&vCenter=true&duration=2500&pause=500&color=041832&width=1000&lines=Oi+Bem-vindos!;Meu+nome+é+Renê+Farias;Sou+Desenvolvedor;Estudo+ADS;Sou+Analista+de+Dados;)](https://git.io/typing-svg)
 
 ### 👋 Oi! Sou Renê Farias, gosto de desafios; resolver problemas é o que me move! 
 
@@ -10,12 +10,12 @@
 </div>
 <br>
 
-- 🔭 Trabalho atualmente com front-end (freelancer)
-- 🌱 Estudando React e Typescript (front end)
+- 🔭 Trabalho atualmente na criação de dashboards com SQL e Power BI Análise de Dados (Bom Leite)
+- 🌱 Estudando Power BI (dados)
 - 🌱 Estudando JAVA Oracle (back end)
 - 🌱 Estudando PYTHON (back end)
-- 🌱 Estudando MySQL
-- 😄 Veja meus projetos!!
+- 🌱 Estudando SQL
+- 😄 Vejam meus projetos!!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rane-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
