@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&center=true&vCenter=true&duration=2500&pause=500&color=FFD700&width=1000&lines=Oi+Bem-vindos!;Meu+nome+é+Renê+Farias;Sou+Desenvolvedor;Estudo+ADS;Sou+Analista+de+Dados;)](https://git.io/typing-svg)
 
-### 👋 Oi! Sou Renê Farias, gosto de desafios; resolver problemas é o que me move! 
+### 👋 Oi! Meu nome é Renê, gosto de desafios; resolver problemas e ajudar ao próximo é o que me facina! 
 
 <div>
   <img heigth="150em" src="https://github-readme-stats.vercel.app/api?username=ReneFarias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -10,12 +10,12 @@
 </div>
 <br>
 
-- 🔭 Trabalho atualmente na criação de dashboards com SQL e Power BI Análise de Dados (Bom Leite)
+- 🔭 Trabalho atualmente na criação de dashboards com SQL e Power BI para a Análise de Dados (Bom Leite)
 - 🌱 Estudando Power BI (dados)
 - 🌱 Estudando SQL (back end)
 - 🌱 Estudando Sankhya
 - 🌱 Estudando PYTHON (back end)
-- 😄 Vejam meus projetos!!
+- 😄 Vejam alguns dos meus projetos públicos !!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rane-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
