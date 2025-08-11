@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6887a9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&center=true&vCenter=true&duration=2500&pause=500&color=041832&width=1000&lines=Oi+Bem-vindos!;Meu+nome+é+Renê+Farias;Sou+Desenvolvedor;Estudo+ADS;Sou+Analista+de+Dados;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&center=true&vCenter=true&duration=2500&pause=500&color=FFD700&width=1000&lines=Oi+Bem-vindos!;Meu+nome+é+Renê+Farias;Sou+Desenvolvedor;Estudo+ADS;Sou+Analista+de+Dados;)](https://git.io/typing-svg)
 
 ### 👋 Oi! Sou Renê Farias, gosto de desafios; resolver problemas é o que me move! 
 
@@ -12,9 +12,9 @@
 
 - 🔭 Trabalho atualmente na criação de dashboards com SQL e Power BI Análise de Dados (Bom Leite)
 - 🌱 Estudando Power BI (dados)
-- 🌱 Estudando JAVA Oracle (back end)
+- 🌱 Estudando SQL (back end)
+- 🌱 Estudando Sankhya
 - 🌱 Estudando PYTHON (back end)
-- 🌱 Estudando SQL
 - 😄 Vejam meus projetos!!
 
 <div style="display: inline_block"><br>
