@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&center=true&vCenter=true&duration=2500&pause=500&color=FFD700&width=1000&lines=Oi+Bem-vindos!;Meu+nome+é+Renê+Farias;Sou+Desenvolvedor;Estudo+ADS;Sou+Analista+de+Dados;)](https://git.io/typing-svg)
 
-### 👋 Oi! Meu nome é Renê, gosto de desafios; resolver problemas e ajudar ao próximo é o que me facina! 
+### 👋 Oi! Meu nome é Renê, gosto de desafios, resolver problemas e ajudar ao próximo é o que me facina! 
 
 <div>
   <img heigth="150em" src="https://github-readme-stats.vercel.app/api?username=ReneFarias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -10,7 +10,7 @@
 </div>
 <br>
 
-- 🔭 Trabalho atualmente na criação de dashboards com SQL e Power BI para a Análise de Dados (Bom Leite)
+- 🔭 Trabalho atualmente na criação de relatórios com SQL e Power BI para a Análise de Dados (Bom Leite)
 - 🌱 Estudando Power BI (dados)
 - 🌱 Estudando SQL (back end)
 - 🌱 Estudando Sankhya
@@ -28,6 +28,8 @@
   <img align="center" alt="Rane-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rane-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rane-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Rane-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/sql-original.svg">
+  <img align="center" alt="Rane-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/Oraclr-original.svg">
   
   <!-- <img align="center" alt="Rane-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
 <!-- <img align="right" alt="Rane-pic" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1HbvesP9U5Ea62JnVb7zegdOBEWsnnE6Zjw&usqp=CAU"> -->
